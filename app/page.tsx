@@ -9,7 +9,7 @@ export default function Home() {
             TimeTracking
           </h1>
           <p className="text-muted-foreground mt-1">
-            Registro de horas - Marzo 2026.
+            Registro de horas - Marzo 2026...
           </p>
         </header>
         
